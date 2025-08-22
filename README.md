@@ -1,30 +1,34 @@
-# Ryzex Discord Bot - README.md
-name: "Ryzex Discord Bot 🤖"
-description: >
-  An advanced AI-powered Discord bot built with **Google Gemini AI** and developed by **Lokesh Shadani**.
-  Ryzex can chat intelligently, answer questions, and handle custom commands — all with blazing-fast responses.
-badges:
-  - "Made with ❤️ by Lokesh Shadani"
-  - "Powered by Google Gemini AI"
-  - "Python 3.10+ Compatible"
+# Ryzex Discord Bot 🤖
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Google-Gemini AI-orange?style=for-the-badge&logo=google" />
+  <img src="https://img.shields.io/badge/Discord-Bot-5865F2?style=for-the-badge&logo=discord" />
+</p>
 
 ---
 
-# 📌 Overview
-Ryzex is a **smart, lightweight, and powerful** Discord bot designed to make your server more fun and interactive.  
-It uses **Google Gemini AI** for conversational intelligence and is built with **Python** for speed and efficiency.
+# 🌌 Ryzex Discord Bot
+
+Ryzex is an **AI-powered Discord assistant** that combines the power of **Google Gemini AI** and **discord.py** to deliver **lightning-fast**, **human-like**, and **smart conversations**.  
 
 ---
 
-# 🚀 Features
-- 🤖 **AI Chatting** – Ask Ryzex anything, and it responds intelligently using Google Gemini.
-- 👨‍💻 **Creator Acknowledgement** – Replies “Made by Google + Lokesh Shadani” when asked “Who made you?”.
-- ⚡ **Ultra-Fast Responses** – Optimized using Gemini 1.5 Flash for low latency.
+## 🚀 Features
+
+- 🤖 **AI-Powered Chat** — Uses **Gemini AI** for instant and context-aware responses.
+- 🧠 **Smart Understanding** — Handles questions intelligently like a human.
+- 👨‍💻 **Creator Recognition** — When asked *“Who made you?”*, Ryzex replies:  
+  *“I’m created by Google Gemini & Lokesh Shadani 🚀”*
 - 🎯 **Custom Commands**
-    - `!ask <question>` → Get AI-powered answers instantly.
-- 🔒 **Secure API Handling** – Uses `.env` for safe key storage.
-- 🏎️ **Lightweight & Scalable** – Perfect for small and large servers.
+    - `!ask <question>` → Get accurate AI-powered answers.
+    - `!ping` → Check latency & response speed.
+- ⚡ **Ultra-Fast** — Optimized with async API calls for minimal lag.
+- 🔒 **Secure Setup** — Environment variables keep your keys safe.
+- 🌐 **Scalable** — Works smoothly on small & large Discord servers.
 
 ---
 
-# 📂 Project Structure
+## 📂 Project Structure
+
